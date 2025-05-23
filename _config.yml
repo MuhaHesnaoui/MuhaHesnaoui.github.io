@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siting Li"
+title                    : "Muhammad El Hesnaoui"
 title_separator          : "-"
-name                     : &name "Siting Li 李思婷"
-description              : &description "CSE Ph.D. Student in the University of Washington"
-url                      : https://lst627.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Muhammad El Hesnaoui محمد الحسناوي"
+description              : &description ""
+url                      : muhahesnaoui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lst627/lst627.github.io"
+repository               : "MuhaHesnaoui/MuhaHesnaoui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siting Li"
+  name             : "Muhammad El Hesnaoui"
   avatar           : "profile.jpg"
-  bio              : "CSE Ph.D. Student in the University of Washington (Photo taken by Si Jiang)"
-  location         : "Seattle, WA, U.S.A."
+  bio              : ""
+  location         : "Benghazi, Libya"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qoo4BucAAAAJ"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lst627"
+  github           : "MuhaHesnaoui"
   google_plus      :
   keybase          :
   instagram        :

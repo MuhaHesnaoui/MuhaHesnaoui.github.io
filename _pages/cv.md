@@ -9,4 +9,3 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is attached [here](https://lst627.github.io/files/CV-Siting-Li.pdf).
